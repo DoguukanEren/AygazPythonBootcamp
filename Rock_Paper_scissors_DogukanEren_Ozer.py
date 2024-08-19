@@ -111,15 +111,5 @@ def rock_paper_scissors_Dogukan_Eren_Ozer():
 
 if __name__ == "__main__":
     rock_paper_scissors_Dogukan_Eren_Ozer()
-    # Program, ana fonksiyon olan main() i çalıştırır. Bu programın çalıştırıldığında hemen başlamasını sağlar
+    # Program, ana fonksiyonu çalıştırır programın çalıştırıldığında hemen başlamasını sağlar
 
-'''
-import random: Python'un random modülünü içe aktarıyoruz, bu modül rastgele seçimler yapmamıza olanak tanır.
-ACTIONS: Oyun içinde kullanılacak olan "rock", "paper", ve "scissors" seçeneklerini tanımlıyoruz.
-play_round(): Bir roundun oynanmasını sağlar ve sonuçları döndürür. Kullanıcı ve bilgisayar seçimleri yapar, sonuçları belirleriz.
-return: Bir fonksiyonun çalışmasını sonlandırır ve belirli bir değeri döndürür.
-play_game(): Bir oyun başlatır ve roundları oynatır. Kullanıcı ve bilgisayar 2 puana ulaşana kadar devam eder.
-main(): Oyun döngüsünü başlatır ve kullanıcının tekrar oynamak isteyip istemediğini kontrol eder.
-if __name__ == "__main__":: Bu, Python'da bir betiğin doğrudan çalıştırıldığında belirli kodları çalıştırmasını sağlar (yani, bu dosya başka bir modül olarak içe aktarılmadığında).
-
-'''
